@@ -1,0 +1,24 @@
+.cabeçalho {
+background-color: rgb(79, 201, 160);
+color: rgb(255, 221, 127);
+display: flex;
+padding: 20px;
+font-size: 20px;
+justify-content: space-around;
+}
+.cabeçalho-imagem{
+   width: 15%;
+    height: 15%;
+}
+.cabeçalho-lista-item{
+  display: inline-block;
+}
+.kokedamas {
+     background-image: linear-gradient(rgb(59, 156, 55) );
+    color: white:
+    font-size:21px;
+    padding:300px 250px; 
+}
+.kokedamas-título {
+   padding: 24PX 0px;
+}
